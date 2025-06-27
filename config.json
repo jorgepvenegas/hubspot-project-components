@@ -7,9 +7,9 @@
   ],
   "projects": [
     {
-      "name": "getting-started-private-app",
+      "name": "get-started-private-app",
       "label": "CRM getting started project with private apps",
-      "path": "projects/private-app-getting-started-template"
+      "path": "projects/private-app-get-started-template"
     },
     {
       "name": "getting-started-public-app",

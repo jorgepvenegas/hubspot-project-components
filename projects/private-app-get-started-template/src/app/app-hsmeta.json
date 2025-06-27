@@ -1,17 +1,15 @@
 {
-  "uid": "get_started_app_private_static",
+  "uid": "static_unified_app",
   "type": "app",
   "config": {
-    "description": "An example to demonstrate how to build a private app using a static access token with developer projects.",
-    "name": "My first private static auth app",
-    "distribution" : "private",
+    "description": "A basic static token app for testing",
+    "name": "My Get Started app",
+    "distribution": "private",
     "auth": {
-      "type" : "static",
+      "type": "static",
       "requiredScopes": [
         "crm.objects.contacts.read",
-        "crm.objects.contacts.write",
-        "crm.schemas.companies.read",
-        "crm.schemas.companies.write"
+        "crm.objects.contacts.write"
       ],
       "optionalScopes": [],
       "conditionallyRequiredScopes": []

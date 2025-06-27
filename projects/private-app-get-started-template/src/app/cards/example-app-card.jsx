@@ -1,5 +1,5 @@
 import React from "react";
-import { List, Text, Link } from "@hubspot/ui-extensions";
+import { Text } from "@hubspot/ui-extensions";
 import { hubspot } from "@hubspot/ui-extensions";
 
 hubspot.extend(() => <Extension />);

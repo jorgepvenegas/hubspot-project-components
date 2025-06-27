@@ -8,7 +8,7 @@ const Extension = () => {
   return (
     <>
       <Text>
-        Congrats! You just deployed your first App card!
+        Congrats! You just deployed your app card with <code>hs get-started</code>!
       </Text>
     </>
   );
